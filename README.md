@@ -89,13 +89,13 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 44
 ​
 45
-- 🎓 Atualmente estudo no **[Nome da sua escola]**
+- 🎓 Atualmente estudo no Sesi-427
 46
-- 💻 Estou aprendendo **[tecnologias que está aprendendo]**
+- 💻 Estou aprendendo como programar sites 
 47
-- 🎯 Meu objetivo é **[coloque seu objetivo, exemplo: ser desenvolvedor Full Stack]**
+- 🎯 Meu objetivo é aprender cada vez mais
 48
-- 📚 Gosto de aprender sobre **[áreas de interesse]**
+- 📚 Gosto de aprender sobre html e css
 49
 - ✝ [Se quiser, coloque uma frase ou versículo que te inspire]
 50
