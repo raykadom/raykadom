@@ -71,7 +71,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 35
 | site | [🔗http://127.0.0.1:5500/index.html) | HTML / CSS / JS          |
 
-| tabela | [🔗 Ver online](https://seu-link.com) | Node.js / Express / MySQL|
+| tabela | [https://github.com/raykadom/brasileirao) | Node.js / Express / MySQL|
 37
 | caixinhas | [https://github.com/raykadom/caixas) | Flutter / Dart           |
 38
