@@ -69,11 +69,11 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 34
 |-----------------------|-------------------------------------|--------------------------|
 35
-| **Nome do Projeto 1** | [🔗 Ver online](https://seu-link.com) | HTML / CSS / JS          |
-36
-| **Nome do Projeto 2** | [🔗 Ver online](https://seu-link.com) | Node.js / Express / MySQL|
+| site | [🔗http://127.0.0.1:5500/index.html) | HTML / CSS / JS          |
+
+| tabela | [🔗 Ver online](https://seu-link.com) | Node.js / Express / MySQL|
 37
-| **Nome do Projeto 3** | [🔗 Ver online](https://seu-link.com) | Flutter / Dart           |
+| caixinhas | [https://github.com/raykadom/caixas) | Flutter / Dart           |
 38
 ​
 39
